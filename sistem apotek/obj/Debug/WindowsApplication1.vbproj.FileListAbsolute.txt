@@ -1,0 +1,12 @@
+C:\Users\melisa krisnawati\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\melisa krisnawati\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\melisa krisnawati\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\melisa krisnawati\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\melisa krisnawati\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.formlogin.resources
+C:\Users\melisa krisnawati\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.formbarang.resources
+C:\Users\melisa krisnawati\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\melisa krisnawati\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\melisa krisnawati\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\melisa krisnawati\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\melisa krisnawati\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\melisa krisnawati\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.formmenu.resources

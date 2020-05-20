@@ -1,0 +1,193 @@
+C:\Users\melisa krisnawati\Desktop\tugas akhir AD\tugas akhir AD\bin\Debug\tugas akhir AD.exe.config
+C:\Users\melisa krisnawati\Desktop\tugas akhir AD\tugas akhir AD\bin\Debug\tugas akhir AD.exe
+C:\Users\melisa krisnawati\Desktop\tugas akhir AD\tugas akhir AD\bin\Debug\tugas akhir AD.pdb
+C:\Users\melisa krisnawati\Desktop\tugas akhir AD\tugas akhir AD\bin\Debug\tugas akhir AD.xml
+C:\Users\melisa krisnawati\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formlogin.resources
+C:\Users\melisa krisnawati\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formbarang.resources
+C:\Users\melisa krisnawati\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formmenu.resources
+C:\Users\melisa krisnawati\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\melisa krisnawati\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\tugas akhir AD.vbproj.GenerateResource.Cache
+C:\Users\melisa krisnawati\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\tugas akhir AD.exe
+C:\Users\melisa krisnawati\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\tugas akhir AD.xml
+C:\Users\melisa krisnawati\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\tugas akhir AD.pdb
+C:\Users\melisa krisnawati\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formsupplier.resources
+C:\Users\melisa krisnawati\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formcustomer.resources
+C:\Users\melisa krisnawati\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formpembelian.resources
+C:\Users\melisa krisnawati\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formpenjualan.resources
+C:\Users\melisa krisnawati\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formstokopname.resources
+C:\Users\melisa krisnawati\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formpenerimaan.resources
+C:\Users\melisa krisnawati\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formstok.resources
+C:\Users\melisa krisnawati\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formgolongan.resources
+C:\Users\melisa krisnawati\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formpegawai.resources
+C:\Users\melisa krisnawati\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formreturjual.resources
+C:\Users\melisa krisnawati\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formreturbeli.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\bin\Debug\tugas akhir AD.exe.config
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\tugas akhir AD.exe
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\tugas akhir AD.xml
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\tugas akhir AD.pdb
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\bin\Debug\tugas akhir AD.exe
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\bin\Debug\tugas akhir AD.pdb
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\bin\Debug\tugas akhir AD.xml
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formlogin.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formstokopname.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formgolongan.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formpegawai.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formreturjual.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formreturbeli.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formbarang.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formmenu.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formsupplier.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formcustomer.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formpembelian.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formpenjualan.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formpenerimaan.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formstok.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\tugas akhir AD.vbproj.GenerateResource.Cache
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Form15.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.ToolbarForm1.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\tugas akhir AD.exe.licenses
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Form17.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.XtraReport2.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Form18.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.XtraReport3.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Form19.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.XtraReport4.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.XtraReport5.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.XtraReport6.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formreportpegawa.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formreportbarang.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Form20.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formgolonganreport.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reportgolongan.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formreportsupplier.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reportsupplier.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Form16.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formubahpenjualan.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formubahreturpenjualan.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formreportcustomer.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reportcustomer.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formpegawaireport.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.pegawaireport.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formreportpembelian.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reportpembelian.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formreportpenjualan.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reportpenjualan.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formreportdetailpembelian.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reportreturpembelian.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formkas.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formreportreturpenjualan.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reportkas.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reportreturpenjualan.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formmenus.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formubahpenerimaan.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formhistorypenerimaan.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formubahstok.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formhistory.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formreportstok.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reportstokbrg.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formreportpenerimaanvb.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reportpenerimaan.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formreportstokopname.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reportstokopname.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formmasterdata.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.FormLAPORAN.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formubahstokopname.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formreportreturbeli.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formmenutransaksi.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reporthistory.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formhistoryreport.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formreportmasterbarang.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reportmasterbarang.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reportmasterbarang2.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Form26.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Form27.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Form28.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Form29.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formreporthistory2.resources
+C:\Users\Daral\Desktop\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Form30.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\bin\Debug\tugas akhir AD.exe.config
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\tugas akhir AD.exe
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\tugas akhir AD.xml
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\tugas akhir AD.pdb
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\bin\Debug\tugas akhir AD.exe
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\bin\Debug\tugas akhir AD.pdb
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\bin\Debug\tugas akhir AD.xml
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formlogin.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formstokopname.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formgolongan.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formpegawai.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formreturjual.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formreturbeli.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Form15.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Form17.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Form18.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Form19.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formbarang.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Form20.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formubahpenerimaan.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formhistorypenerimaan.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formubahstok.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formmenu.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Form26.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Form27.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Form28.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Form29.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formmenus.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Form30.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formsupplier.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formcustomer.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formpembelian.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formpenjualan.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formpenerimaan.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formstok.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formgolonganreport.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formhistory.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formhistoryreport.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formkas.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.FormLAPORAN.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formmasterdata.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formmenutransaksi.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formpegawaireport.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formreportbarang.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formreportcustomer.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formreportdetailpembelian.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formreporthistory2.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formreportmasterbarang.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formreportpegawa.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formreportpembelian.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formreportpenerimaanvb.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formreportpenjualan.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formreportreturbeli.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formreportreturpenjualan.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formreportstok.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formreportstokopname.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formreportsupplier.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formubahpenjualan.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Form16.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Formubahreturpenjualan.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.formubahstokopname.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.pegawaireport.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reportcustomer.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reportgolongan.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reporthistory.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reportkas.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reportmasterbarang.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reportmasterbarang2.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reportpembelian.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reportpenerimaan.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reportpenjualan.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reportreturpembelian.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reportreturpenjualan.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reportstokbrg.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reportstokopname.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.reportsupplier.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.ToolbarForm1.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.XtraReport2.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.XtraReport3.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.XtraReport4.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.XtraReport5.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\WindowsApplication1.XtraReport6.resources
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\tugas akhir AD.vbproj.GenerateResource.Cache
+C:\Users\bevan\Documents\SAA BEVAN\tugas akhir AD\tugas akhir AD\obj\Debug\tugas akhir AD.exe.licenses
