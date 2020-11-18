@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/black">
+
+    <TextView
+        android:id="@+id/hasil"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:textSize="50dp"
+        android:text="234+12"
+        android:textColor="@color/silver"
+        android:textAlignment="textEnd"
+        android:scrollbars = "vertical"
+        android:gravity="bottom"
+        android:scrollbarAlwaysDrawVerticalTrack="true"
+        android:background="@color/black">
+
+
+    </TextView>
+    <TextView
+        android:id="@+id/hasil2"
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:textSize="50dp"
+        android:text="245"
+        android:scrollbars="vertical"
+        android:gravity="bottom"
+        android:textColor="@color/white"
+        android:textAlignment="textEnd"
+        android:background="@color/black">
+    </TextView>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_marginTop="0dp"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/delete"
+            android:text="⌫"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            style="@style/button2"/>
+
+
+        <Button
+            android:id="@+id/c"
+            android:text="C"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            style="@style/button2"/>
+
+
+        <Button
+            android:id="@+id/ac"
+            style="@style/button2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="AC" />
+
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_marginTop="0dp"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/up"
+            android:text="Ceil"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:textSize="26dp"
+            style="@style/button2bawah"/>
+        <Button
+            android:id="@+id/floor"
+            android:text="Floor"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            style="@style/button2bawah"/>
+        <Button
+            android:id="@+id/round"
+            android:text="Round"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            style="@style/button2bawah"/>
+
+        <Button
+            android:id="@+id/pangkat"
+            style="@style/button2bawah"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="^" />
+
+
+
+
+
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/tujuh"
+            style="@style/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="7" />
+
+        <Button
+            android:id="@+id/delapan"
+            style="@style/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="8" />
+
+        <Button
+            android:id="@+id/sembilan"
+            style="@style/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="9" />
+
+        <Button
+            android:id="@+id/bagi"
+            style="@style/button3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="/" />
+
+
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/empat"
+            style="@style/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="4" />
+
+        <Button
+            android:id="@+id/lima"
+            style="@style/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="5" />
+
+        <Button
+            android:id="@+id/enam"
+            style="@style/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="6" />
+
+        <Button
+            android:id="@+id/kali"
+            style="@style/button3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="x" />
+
+
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/satu"
+            style="@style/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1" />
+
+        <Button
+            android:id="@+id/dua"
+            style="@style/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2" />
+
+        <Button
+            android:id="@+id/tiga"
+            style="@style/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3" />
+
+        <Button
+            android:id="@+id/kurang"
+            style="@style/button3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-" />
+
+
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/nol"
+            style="@style/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0" />
+
+        <Button
+            android:id="@+id/titik"
+            style="@style/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="." />
+        <Button
+            android:id="@+id/akar"
+            style="@style/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="√" />
+
+
+        <Button
+            android:id="@+id/tambah"
+            style="@style/button3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="+" />
+
+
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+    <Button
+        android:id="@+id/samadengan"
+        style="@style/button4"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="="
+        android:layout_marginBottom="1dp"/>
+</androidx.appcompat.widget.LinearLayoutCompat>

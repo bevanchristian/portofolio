@@ -1,0 +1,77 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="button1" parent="Widget.MaterialComponents.Button">
+
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/black</item>
+        <item name="android:textColor">@color/white</item>
+
+        <item name="backgroundTint">@color/black</item>
+<item name="android:foreground">?attr/selectableItemBackgroundBorderless</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:state_pressed">true</item>
+        <item name="android:colorControlHighlight">@color/white</item>
+        <item name="android:textSize">@dimen/limapuluh</item>
+    </style>
+    <style name="button2" parent="Widget.MaterialComponents.Button">
+
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/black</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="backgroundTint">@color/grey</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">35dp</item>
+    </style>
+    <style name="button2bawah" parent="Widget.MaterialComponents.Button">
+
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/black</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="backgroundTint">@color/greymuda</item>
+        <item name="android:foreground">?attr/selectableItemBackgroundBorderless</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">35dp</item>
+    </style>
+    <style name="button3" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="cornerRadius">200dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/orange</item>
+        <item name="android:foreground">?attr/selectableItemBackgroundBorderless</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="backgroundTint">@color/orange</item>
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:state_pressed">true</item>
+        <item name="android:textSize">@dimen/limapuluh</item>
+    </style>
+    <style name="button4" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@color/black</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:foreground">?attr/selectableItemBackgroundBorderless</item>
+        <item name="backgroundTint">@color/kuning</item>
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:textSize">35dp</item>
+    </style>
+
+</resources>
